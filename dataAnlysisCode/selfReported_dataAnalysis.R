@@ -55,3 +55,4 @@ ggplot(selfReportedData, aes(x = condition, y = PS1, color = subjectType)) +
   stat_summary(fun = mean, geom = "point") +
   labs(title = "Interaction between Condition and SubjectType on PS1",
        x = "Condition", y = "Mean PS1 Score", color = "Subject Type")
+

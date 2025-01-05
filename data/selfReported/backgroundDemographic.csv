@@ -1,0 +1,97 @@
+﻿age,gender,nickname,subjectNum,groupNum,role,educationLevel,workYear,groupDecisionExperience,onlineCoworkExperience,Aiexperience,usedAI_inGroup
+23,F,이강두,3,1,Senior,Bachelor's degree,1,6,6,5,Y
+20,F,만두,41,11,Senior,High school or equivalent,0,4,2,5,Y
+39,M,쿵야,67,17,Senior,Bachelor's degree,10,5,7,5,Y
+23,M,쉐마,58,15,Senior,Some college,0,5,6,7,Y
+24,M,p84,84,21,Junior,High school or equivalent,0,3,3,7,N
+23,F,익명,83,21,Senior,Bachelor's degree,0.5,6,4,6,Y
+30,M,알감자,75,19,Senior,Master's Degree,2,7,7,5,N
+23,M,뿅뿅 Y오,90,23,Senior,High school or equivalent,0,6,5,7,Y
+26,M,꽁꽁,68,17,Junior,Master's Degree,4,6,5,5,N
+19,F,딸기케이크,95,24,Senior,Some college,0,3,3,4,N
+28,F,쥬쥬공쥬,94,24,Senior,Master's Degree,1,5,7,3,N
+29,M,jyw,47,12,Senior,doctorate degree,7,4,3,5,N
+19,F,천원의아침밥,45,12,Senior,Some college,0,6,4,5,Y
+22,F,룰류,89,23,Senior,High school or equivalent,0,5,1,3,Y
+36,F,불 뿜는 튜브,93,24,Senior,Bachelor's degree,12,5,7,5,N
+23,F,Uni,46,12,Senior,Bachelor's degree,0,6,6,6,N
+21,M,복서 무지,23,6,Senior,High school or equivalent,0,6,6,7,N
+21,M,테슬라지옥가즈아,8,2,Junior,High school or equivalent,0,5,5,4,N
+20,F,산타,4,1,Junior,High school or equivalent,0,4,6,6,Y
+27,F,치즈케익,76,19,Junior,doctorate degree,4,5,5,5,N
+25,F,피크,66,17,Senior,Bachelor's degree,1,3,6,6,Y
+28,M,p31,31,8,Senior,Bachelor's degree,5,6,6,6,N
+22,M,불닭소스반만넣어요,18,5,Senior,Some college,0,4,6,5,Y
+28,F,생각하는 라이언,48,12,Junior,Bachelor's degree,0,6,6,5,Y
+28,M,QQ,74,19,Senior,Bachelor's degree,1,3,2,4,Y
+22,F,화난 튜브,13,4,Senior,Bachelor's degree,0,5,4,3,N
+31,M,피자 먹다 자는 무지,56,14,Junior,Bachelor's degree,8,7,6,6,Y
+20,F,음료수,15,4,Senior,Some college,0,7,3,5,Y
+42,F,라이언,55,14,Senior,Bachelor's degree,7,5,5,5,Y
+34,F,브레댄코,5,2,Senior,Bachelor's degree,4,4,5,4,Y
+25,M,익명의 고라니,82,21,Senior,Bachelor's degree,4,6,5,5,Y
+32,F,나무,81,21,Senior,Master's Degree,8,6,3,4,N
+29,M,hi,2,1,Senior,Master's Degree,1,7,2,7,Y
+30,F,j,73,19,Senior,Master's Degree,4,5,7,6,Y
+30,M,라이언,32,8,Junior,Master's Degree,3,6,5,6,N
+28,M,윤윤,30,8,Senior,Master's Degree,2,6,4,3,Y
+39,M,ojo,6,2,Senior,doctorate degree,12,5,6,6,Y
+29,F,p1,1,1,Senior,Bachelor's degree,3,5,2,3,N
+28,F,파자마,7,2,Senior,Master's Degree,5,4,2,5,N
+29,F,파페,96,24,Junior,Bachelor's degree,2,4,5,3,Y
+21,F,불나게 일하는 Y,19,5,Senior,High school or equivalent,0,6,7,7,Y
+30,F,연분홍 만두국,11,3,Senior,doctorate degree,5,7,5,4,N
+19,F,비옷입은 튜브,92,23,Junior,Some college,0,5,3,6,Y
+23,F,으쓱어쓱 어피치,10,3,Senior,Bachelor's degree,1,6,7,7,Y
+22,M,갈비탕구리,12,3,Junior,Some college,0,4,2,5,Y
+24,F,말하는 감자,9,3,Senior,Bachelor's degree,0.5,5,4,4,N
+29,F,엄지척 어피치,91,23,Senior,Bachelor's degree,4,5,3,5,N
+26,F,뿌뿌,17,5,Senior,Master's Degree,0,5,4,4,Y
+27,F,도롱,20,5,Junior,Bachelor's degree,2,6,1,1,N
+25,F,p24,24,6,Junior,Bachelor's degree,1,6,3,5,Y
+19,F,p21,21,6,Senior,Some college,0,5,6,7,Y
+20,F,p22,22,6,Senior,Some college,0,6,6,6,Y
+26,F,호잇,14,4,Senior,Master's Degree,0,4,6,5,Y
+24,F,프로도,16,4,Junior,Bachelor's degree,0,5,2,3,Y
+23,M,p59,59,15,Senior,Some college,0,5,4,7,N
+19,M,P60,60,15,Junior,Bachelor's degree,0,1,1,3,N
+23,F,오이,57,15,Senior,High school or equivalent,0,4,6,6,Y
+28,F,씩씩거리는 무지,52,13,Junior,Bachelor's degree,5,4,5,2,N
+30,M,튜브낀튜브,51,13,Senior,Master's Degree,0,7,7,6,Y
+25,M,원투쮑쮑,50,13,Senior,Bachelor's degree,1,7,7,7,Y
+26,M,트리,49,13,Senior,Bachelor's degree,6,7,2,5,Y
+19,M,권투하는 무지,34,9,Senior,High school or equivalent,0,4,5,5,Y
+24,F,말썽쟁이 Y오,35,9,Senior,Bachelor's degree,0,5,3,4,Y
+34,F,단무지,36,9,Junior,Bachelor's degree,9,3,3,3,N
+27,M,오리,78,20,Senior,Bachelor's degree,0,6,3,5,Y
+27,F,유니유니,77,20,Senior,Bachelor's degree,5,4,2,5,N
+31,M,멜론,79,20,Senior,Bachelor's degree,3,6,2,5,Y
+22,F,울고있는 어피치,33,9,Senior,Bachelor's degree,2,7,5,4,Y
+21,M,튜브낀 튜브,80,20,Junior,High school or equivalent,0,3,1,2,N
+27,F,무지,42,11,Senior,Bachelor's degree,1,5,4,6,N
+29,F,겨울,43,11,Senior,Bachelor's degree,3,6,6,6,N
+26,F,즁즁,44,11,Junior,Bachelor's degree,0,6,6,5,N
+25,F,자몽,71,18,Senior,Bachelor's degree,0,5,2,6,Y
+21,F,권투하는 무지,70,18,Senior,Some college,0,6,3,6,Y
+31,M,돌맹이,72,18,Junior,Master's Degree,7,7,6,7,Y
+26,F,하츄핑,26,7,Senior,Bachelor's degree,4,4,4,3,N
+23,F,졸린 라이언,25,7,Senior,Some college,0,3,4,5,N
+27,M,페드로,27,7,Senior,Bachelor's degree,2,5,4,5,N
+25,F,p28,28,7,Junior,Some college,2,1,1,2,N
+36,F,화나서방방뛰는튜브,62,16,Senior,Master's Degree,7,6,6,6,N
+29,F,우가우가,63,16,Senior,Bachelor's degree,6,4,2,3,N
+30,F,p61,61,16,Senior,Bachelor's degree,2,5,5,6,Y
+25,M,무지,64,16,Junior,Bachelor's degree,0,4,5,5,N
+24,F,터보,37,10,Senior,Bachelor's degree,1,7,7,5,N
+20,M,라이언,38,10,Senior,Some college,0,2,2,4,N
+24,F,마니,88,22,Junior,Some college,0,3,5,5,Y
+41,F,해모용,85,22,Senior,Master's Degree,10,3,2,1,N
+30,F,무지,39,10,Senior,Master's Degree,5,6,5,3,Y
+34,F,유빈,40,10,Junior,Bachelor's degree,6,2,4,4,N
+33,F,겨울,87,22,Senior,Bachelor's degree,3,3,2,2,N
+20,F,빈털터리 제이지,86,22,Senior,High school or equivalent,0,3,6,7,N
+28,M,신나벌임,69,18,Senior,Master's Degree,8,7,7,5,Y
+30,F,참가자,29,8,Senior,Master's Degree,1,6,7,5,N
+36,F,kim,53,14,Senior,Bachelor's degree,5,7,6,7,Y
+34,M,진,54,14,Senior,High school or equivalent,10,5,2,2,N
+31,M,고드름,65,17,Senior,Master's Degree,1,6,5,3,Y
