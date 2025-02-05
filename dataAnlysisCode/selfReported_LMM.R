@@ -5,6 +5,12 @@ library(emmeans)
 library(ggplot2)
 library(readr)
 library(dplyr)
+library(nparLD)
+library(effectsize)
+library(MuMIn)
+library(ordinal)
+
+
 
 # Import the data
 data <- read.csv("./Desktop/github/devilAdvocate/data/selfReported/selfReported_cleaned.csv")
@@ -20,11 +26,25 @@ data <- data %>%
   )
 
 
+
 ##### Psychological Safety #####
 # Fit the LMM for PS
 model_PS <- lmer(PS ~ Condition * Role + (1 | Participant), data = data)
 # Summary of the model
 summary(model_PS)
+
+### Effect size
+# 1A. Compute standardized coefficients:
+# By default, effectsize::standardize_parameters() uses partial standardization
+std_coef <- standardize_parameters(model_PS)
+std_coef
+
+# 1B. Compute marginal and conditional R-squared:
+#  - Marginal R^2: proportion of variance explained by fixed effects alone
+#  - Conditional R^2: proportion of variance explained by both fixed + random effects
+r2_vals <- r.squaredGLMM(model_PS)
+r2_vals
+
 
 ###########################
 # Check model assumptions
