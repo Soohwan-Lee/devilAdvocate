@@ -1,5 +1,8 @@
 library(robustlmm)
 library(emmeans)
+library(readr)
+library(dplyr)
+library(tidyr)
 
 # Import the data
 data <- read.csv("./Desktop/github/devilAdvocate/data/selfReported/selfReported_AB_LBW_mean.csv")
